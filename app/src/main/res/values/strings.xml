@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="hint_email">Insira seu email</string>
+    <string name="hintpass">Insira sua senha</string>
+    <string name="buttonLogin">Login</string>
+    <string name="buttonCadastro">Cadastro</string>
+    <string name="title_email">Email:</string>
+    <string name="email_pass">Senha:</string>
+    <string name="buttonRealizar">Realizar Cadastro</string>
+    <string name="data_card">Data</string>
+    <string name="title_notes">Create Notes</string>
+    <string name="title_Realizar">Criar Notes</string>
+    <string name="create_notes">Criar anotação</string>
+    <string name="save_notes">Salvar Anotação</string>
+    <string name="todo">TODO</string>
+    <string name="title_name">Nome:</string>
+    <string name="hintname">Insira seu nome</string>
+</resources>
